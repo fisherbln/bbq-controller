@@ -1,3 +1,19 @@
+Pin Name on the Board	Function	Pin Number in Arduino IDE	Alias Name in Arduino IDE
+D3	GPIO 0	0	D3
+TX	GPIO 1	1	D10
+D4	GPIO 2	2	D4
+RX	GPIO 3	3	D9
+D2	GPIO 4	4	D2
+D1	GPIO 5	5	D1
+D6	GPIO 12	12	D6
+D7	GPIO 13	13	D7
+D5	GPIO 14	14	D5
+D8	GPIO 15	15	D8
+D0	GPIO 16	16	D0, LED_BUILTIN
+A0	ADC0	A0	analog_ip
+
+Pinout Translation: https://esp8266-shop.com/esp8266-guide/esp8266-nodemcu-pinout/
+
 [![Build Status](https://api.travis-ci.org/rvt/bbq-controller.svg?branch=master)](https://www.travis-ci.org/rvt/bbq-controller)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
