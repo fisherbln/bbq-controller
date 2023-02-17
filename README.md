@@ -105,6 +105,7 @@ Just connect to that accesspoint and open a browser to configure WIFI andf MQTT.
 ``` bash
 cd libtest
 mkdir build
+cd build
 cmake ../
 make
 ./tests
